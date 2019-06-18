@@ -1,0 +1,3 @@
+{
+  "tests/test_generator.py::test_one_equalto_one": true
+}
